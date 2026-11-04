@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+# file creation made easy
 
 
 echo  "Provide an alias name of your !" 
