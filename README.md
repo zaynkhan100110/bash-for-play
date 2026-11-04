@@ -1,2 +1,2 @@
 # bash-for-fun
-Just Some Noisey Tiny Bash Scripts Which Can Be Fun (Maybe)
+Some Tiny Bash Scripts Which you can use to learn bash (But in joyfull moment)
