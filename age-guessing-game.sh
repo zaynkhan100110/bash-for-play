@@ -2,7 +2,7 @@
 
 #Age Guessing Game Starts
 
-echo "Welcome To Age Guessing Game !" #| pv -qL 10 (This Funtion Isn't 100% Working On Windows System
+echo "Welcome To Age Guessing Game !" #| pv -qL 10 (This Funtion Isn't 100% Working On Windows System which let's you print slowly word by word)
 sleep 1
 echo " "
 echo "What's Your Name ? "  
